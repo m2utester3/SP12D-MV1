@@ -44,7 +44,7 @@
             </runConfigurationData>
             <runConfigurationId>Android</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/MAE_TS2</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>

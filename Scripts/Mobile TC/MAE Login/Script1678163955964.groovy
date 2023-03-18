@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startExistingApplication('com.maybank2u.life', FailureHandling.CONTINUE_ON_FAILURE)
+Mobile.startApplication('com.maybank2u.life', false)
 
 WebUI.delay(1)
 
