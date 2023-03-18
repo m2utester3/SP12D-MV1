@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('\\androidfile.apk', true)
 
-Mobile.takeScreenshot()
-
 Mobile.getText(findTestObject('Object Repository/Mobile - XE/android.widget.TextView - Convert'), 0)
+
+Mobile.takeScreenshot()
 
 Mobile.takeScreenshot()
 
