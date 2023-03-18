@@ -23,8 +23,6 @@ Mobile.getText(findTestObject('Object Repository/Mobile - XE/android.widget.Text
 
 Mobile.takeScreenshot()
 
-Mobile.takeScreenshot()
-
 Mobile.tap(findTestObject('Object Repository/Mobile - XE/android.widget.Button - currency_myr MYR custom icon-xe-chevron-down RM 130,000.00 custom icon-calculator'), 
     0)
 
