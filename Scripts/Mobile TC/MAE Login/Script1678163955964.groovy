@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('com.maybank2u.life', false)
+Mobile.startApplication('MAE.apk', false)
 
 WebUI.delay(1)
 

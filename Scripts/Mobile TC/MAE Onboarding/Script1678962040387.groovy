@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('com.maybank2u.life', false)
+Mobile.startApplication('MAE.apk', false)
 
 Mobile.takeScreenshot('C:\\Users\\00123955\\git\\screenshot\\M2U\\1.png', FailureHandling.CONTINUE_ON_FAILURE)
 
